@@ -11,7 +11,7 @@ from pathlib import Path
 import sys
 
 # Otherwise VTK reader issues on some systems, causing sphinx to crash. See also #226.
-locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+# locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 faulthandler.enable()
 
