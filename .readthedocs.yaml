@@ -21,4 +21,3 @@ sphinx:
 #    install:
 #    - requirements: docs/requirements.txt
         
-language: en
